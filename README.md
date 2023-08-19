@@ -1,4 +1,4 @@
-# IFS_Challenge2
+# Prime Number Sum Calculator
 IFS Discover IFS Challenge - Prime Number Sum Calculator
 
 This repository contains the solution to the "Discover IFS" challenge organized by IFS. The challenge is to create a console application using C# that calculates the sum of prime numbers below a given value, where the value is determined by the provided formula.

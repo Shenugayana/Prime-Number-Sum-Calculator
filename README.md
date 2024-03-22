@@ -3,6 +3,10 @@ IFS Discover IFS Challenge - Prime Number Sum Calculator
 
 This repository contains the solution to the "Discover IFS" challenge organized by IFS. The challenge is to create a console application using C# that calculates the sum of prime numbers below a given value, where the value is determined by the provided formula.
 
+## Authors
+
+- [@shenugayana](https://www.github.com/shenugayana)
+
 ## Challenge Description
 The challenge requires participants to write a console application that calculates the sum of prime numbers below a value X. The value X is defined by the formula:
 
@@ -22,3 +26,5 @@ The provided console application calculates the sum of prime numbers below the v
 3. Calculate X using the formula.
 4. Generate a list of prime numbers below X.
 5. Calculate and display the sum of prime numbers.
+
+Happy coding!
